@@ -1,2 +1,3 @@
 # test1
-## learning hoe to used branch
+## learning how  to used branch
+## by using checkout command ,we can switch to new branch
